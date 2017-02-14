@@ -42,7 +42,7 @@ Light Mode activation based on time of the day - **Todo**
 
 Always Show Notification Buttons on Homescreen (Snooze/Stop) - **Completed**
 
-Disable Alarm Notification Blue on Homescreen - **Completed**
+Disable Alarm Notification Blur on Homescreen - **Completed**
 
 Invert Snooze/Stop Buttons on LockScreen - **Completed**
 
