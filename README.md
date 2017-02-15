@@ -48,3 +48,4 @@ Invert Snooze/Stop Buttons on LockScreen - **Completed**
 
 Volume Button Action when Alarm is Fired - **Completed**
 
+Home Button Action when Alarm is Fired - **Completed**
