@@ -46,5 +46,5 @@ Disable Alarm Notification Blur on Homescreen - **Completed**
 
 Invert Snooze/Stop Buttons on LockScreen - **Completed**
 
-Volume Button Action when Alarm is Fired - **Maybe**
+Volume Button Action when Alarm is Fired - **Completed**
 
