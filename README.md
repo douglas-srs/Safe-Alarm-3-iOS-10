@@ -26,7 +26,7 @@ Disable Touch ID for Alarm - **Will be removed because alarms won't get deactiva
 
 Custom Lockscreen Alarm - **Will be reworked since iOS 10 stock lockscreen alarm now has Stop/Snooze buttons!**
 
-Sleep Button Action When Alarm is Fired - **Todo**
+Sleep Button Action When Alarm is Fired - **Completed**
 
 Alarm Default Settings - **Todo**
 
