@@ -28,6 +28,10 @@ Custom Lockscreen Alarm - **Will be reworked since iOS 10 stock lockscreen alarm
 
 Sleep Button Action When Alarm is Fired - **Completed**
 
+Duplicate Alarms **Completed**
+
+Mass Edition of Alarms **Completed**
+
 Alarm Default Settings - **Todo**
 
 ## Improvements
@@ -49,3 +53,5 @@ Invert Snooze/Stop Buttons on LockScreen - **Completed**
 Volume Button Action when Alarm is Fired - **Completed**
 
 Home Button Action when Alarm is Fired - **Completed**
+
+Should Lock the Device/Turn off the screen when alarm is triggered? **Completed**
