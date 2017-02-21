@@ -55,3 +55,5 @@ Volume Button Action when Alarm is Fired - **Completed**
 Home Button Action when Alarm is Fired - **Completed**
 
 Should Lock the Device/Turn off the screen when alarm is triggered? **Completed**
+
+Flash Screen Effect with 4 options! **Completed**
