@@ -32,7 +32,7 @@ Duplicate Alarms **Completed**
 
 Mass Edition of Alarms **Completed**
 
-Alarm Default Settings - **Todo**
+Alarm Default Settings - **Completed**
 
 ## Improvements
 
