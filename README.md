@@ -18,13 +18,13 @@ Time Until Alarm Fires on Lockscreen -**Todo**
 
 Activator Gestures - **Completed**
 
-Calc Alarm - **Todo**
+Calc Alarm - **Completed**
 
 Open Alarms from Control Center button - **Todo**
 
 Disable Touch ID for Alarm - **Will be removed because alarms won't get deactivated anymore when you use touchid**
 
-Custom Lockscreen Alarm - **Will be reworked since iOS 10 stock lockscreen alarm now has Stop/Snooze buttons!**
+Custom Lockscreen Alarm - **Completed**
 
 Sleep Button Action When Alarm is Fired - **Completed**
 
@@ -40,7 +40,7 @@ Reduce Snooze, Fade and Auto Dismiss fields to one field each so you can select 
 
 ## New Features
 
-Light Mode - **Completed**
+Light Mode - **Completed/Needs Fix**
 
 Light Mode activation based on time of the day - **Todo**
 
