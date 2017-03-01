@@ -1,6 +1,6 @@
 # Safe Alarm 3 Development Roadmap
 
-## Please create an issue with you find a bug on the lastest beta.
+## Please create an issue with you find a bug with the lastest beta.
 
 ## Fixes
 
