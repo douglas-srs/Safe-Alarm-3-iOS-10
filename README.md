@@ -14,7 +14,7 @@ Auto Dismiss - **Completed**
 
 Time Until Alarm Fires on Clock App - **Completed**
 
-Time Until Alarm Fires on Lockscreen -**Todo**
+Time Until Alarm Fires on Lockscreen -**Completed**
 
 Activator Gestures - **Completed**
 
