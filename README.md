@@ -1,4 +1,6 @@
-# Safe Alarm 3 Development Roadmap for iOS 10
+# Safe Alarm 3 Development Roadmap
+
+## Please create an issue with you find a bug on the lastest beta.
 
 ## Fixes
 
