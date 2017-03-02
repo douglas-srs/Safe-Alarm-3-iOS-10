@@ -2,6 +2,8 @@
 
 ## Please create an issue with you find a bug with the lastest beta.
 
+## If you want to translate Safe Alarm 3 into your native language, download the Localizable.strings file, translate it's content and send me the file and the language you translated it to, also send me your cydia id.
+
 ## Fixes
 
 Snooze Time - **Completed**
