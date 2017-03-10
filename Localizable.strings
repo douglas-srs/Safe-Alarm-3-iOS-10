@@ -143,3 +143,6 @@
 "FROM_RIGHT" = "From right";
 "FROM_TOP" = "From top";
 "FROM_BOTTOM" = "From bottom";
+"SELECT_PLAYLIST_ORDER" = "Select Playlist Order";
+"PLAYLIST_SEQUENTIAL_ORDER" = "Sequential";
+"PLAYLIST_RANDOM_ORDER" = "Random";
